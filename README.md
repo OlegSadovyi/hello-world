@@ -1,2 +1,2 @@
-# hello-world
-My repository for learning Java
+# javacore
+My_repository 
